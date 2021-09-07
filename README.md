@@ -1,2 +1,3 @@
-# react-exercise-20
+# Class components in React
+
 Created with CodeSandbox
